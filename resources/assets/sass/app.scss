@@ -1,0 +1,32 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.search-titles,
+.search-genre,
+.search-people {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.movie-result,
+.title-results,
+.genre-results,
+.person-results {
+    margin-bottom: 20px;
+}
+
+.list {
+    margin-bottom: 40px;
+}
+
+.movies .poster {
+    margin-right: 10px;
+}
+
+.person-result {
+    display: inline-block;
+    margin: 20px;
+
+    img {
+    border: 0;
+    }
+}
